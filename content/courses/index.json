@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1410474",
+    "type": "Casa",
+    "title": "casa en las montañas de pereira",
+    "description": "description mas larga y mas rica",
+    "coverImage": "https://thrangra.sirv.com/Next_TypeScript_Shopify_Final.jpg",
+    "author": "Filip Jerga",
+    "link": "https://academy.eincode.com/courses/next-js-typescript-with-shopify-integration-full-guide",
+    "slug": "next-js-typescript-with-shopify-integration-full-guide",
+    "wsl": [
+      "Build Next JS apps on your own",
+      "Build ecommerce apps with modern technologies",
+      "Use Shopify to your advantage"
+    ],
+    "createdAt": ""
+  }
+
+  
+]
